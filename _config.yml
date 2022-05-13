@@ -1,0 +1,16 @@
+title: Boyuan Inc.
+email: sales@boyuan.biz
+description: >- # this means to ignore newlines until "baseurl:"
+  Welcome to our company website.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: jekyllrb
+github_username:  jekyll
+github_url: https://boyuan.biz/
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+permalink: :title
